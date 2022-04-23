@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.7",
+    "express": "^4.17.3",
+    "joi": "^17.6.0",
+    "mongoose": "^6.3.1",
+    "nodemon": "^2.0.15"
+  },
+  "name": "express-project",
+  "description": "First semi-real project that itegrates Mongo db and other advanced topics with Express APIs.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Will Otwell",
+  "license": "ISC"
+}
